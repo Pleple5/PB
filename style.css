@@ -1,0 +1,55 @@
+body{
+    background-color: #03091f;  
+    font-size: 18px;
+}
+main{
+    border: 2px black solid;
+    text-align: center;
+    padding: 20x;
+    width: 60%;
+    background-color: wheat;
+    margin: auto;
+    min-height: 500px;
+    padding-right: 50px;
+}
+#zdj1d{
+    width: 40%;
+    float: left;
+}
+#zdj1{
+    height: 110%;
+    border: 1px black solid;
+}
+#txt1{
+    text-align: center;
+}
+#og1{
+    width: 60%;
+    display: flex;
+    min-height: 311px;
+    font-size: larger;
+}
+#og2{
+    width: 60%;
+    margin: auto;
+}
+#txt2{
+    font-size: 2.2vh;
+}
+.p1002{ 
+    display: flex;
+}
+#zdj2d{
+    width: 30%;
+}
+#zdj2{
+    width: 250px;
+    border: 1px black solid;
+}
+#zdj3{
+    width: 250px;
+    border: 1px black solid;
+}
+#txt3{
+    font-size: 2.3vh;
+}
